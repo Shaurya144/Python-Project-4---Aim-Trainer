@@ -11,7 +11,7 @@ TARGET_INCREMENT = 400 # This controls how fast the next target appears onto the
 TARGET_EVENT = pygame.USEREVENT
 TARGET_PADDING = 30
 BG_COLOR = (0, 25, 40)
-LIVES = 3
+LIVES = 6
 TOP_BAR_HEIGHT = 50
 LABEL_FONT = pygame.font.SysFont("comicsans", 24)
 
